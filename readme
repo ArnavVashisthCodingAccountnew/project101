@@ -1,0 +1,21 @@
+High-Tech Dice Rolling Program
+
+The High-Tech Dice Rolling Program is a proprietary command line tool developed for the purpose of simulating random dice rolls. Designed with cutting-edge technology, this program utilizes state-of-the-art algorithms to generate truly random results for use in a wide variety of applications.
+Features
+
+    Simulates random dice rolls using a proprietary algorithm
+    Utilizes advanced mathematical models for generating truly random results
+    Provides users with a sleek and intuitive command line interface
+    Can be used to simulate a wide range of dice types, including d4, d6, d8, d10, d12, and d20
+    Offers the ability to specify the number of dice to roll and any modifier to be applied to the final result
+
+Usage
+
+To use the High-Tech Dice Rolling Program, simply download and run the dice_roll.py file using Python 3. The program provides an intuitive command line interface for generating random dice rolls.
+
+When prompted, specify whether you would like to roll a dice by typing "y" for yes or "n" for no. If you select "y", the program will simulate the roll of a standard six-sided dice and display the results in an animated format.
+
+To specify a different type of dice or the number of dice to roll, simply modify the code to meet your specific needs.
+License
+
+The High-Tech Dice Rolling Program is proprietary software developed and owned by our company. It is not available for distribution or modification without our express permission.
